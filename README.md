@@ -6,6 +6,9 @@ Welcome to the Election Portal project! This platform is designed to facilitate 
 
 The Election Portal enables efficient and secure voting procedures for various entities, such as college students and candidates standing for positions of power. It employs quadratic voting, a novel approach to voting where voters allocate their votes in a quadratic manner, allowing for more nuanced expression of preferences.
 
+![Blank diagram](https://github.com/hemantchaurasia2004/BalladBuddy/assets/115251521/8e2070de-0bfc-4a59-a613-c29e3af27a44)
+
+
 ### Quadratic Voting
 
 Quadratic voting is a voting mechanism in which voters are given a budget of votes that they can distribute among the options available. However, the cost of each additional vote for a particular option increases quadratically with the number of votes allocated to that option. This ensures that voters prioritize their preferences more effectively and prevents the domination of majority preferences.
