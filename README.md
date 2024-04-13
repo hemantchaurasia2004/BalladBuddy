@@ -40,6 +40,9 @@ The Election Portal offers a range of features to facilitate a smooth and transp
 
 The Election Portal is deployed on the Sepolia testnet, leveraging the power of Ethereum blockchain for secure and transparent transactions. Smart contracts are compiled using the Hardhat framework on Node.js, ensuring robustness and reliability.
 
+### Deployed Contract Address - 0x19bE2Fe2F37FB32F65e5cA78610188A183D220d1 (Sepolia TestNet)
+To verify click on the link - [https://sepolia.etherscan.io/address/0x19bE2Fe2F37FB32F65e5cA78610188A183D220d1]
+
 ## Usage
 
 To get started with the Election Portal:
