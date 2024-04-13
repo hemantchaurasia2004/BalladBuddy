@@ -2,6 +2,9 @@
 
 Welcome to the Election Portal project! This platform is designed to facilitate fair and transparent elections using the concept of quadratic voting. The project leverages blockchain technology, particularly the Ethereum protocol, to ensure the integrity and immutability of the voting process. The portal is deployed on the Sepolia testnet and utilizes smart contracts compiled using the Hardhat framework on Node.js.
 
+![Screenshot (162)](https://github.com/hemantchaurasia2004/BalladBuddy/assets/115251521/8e4f9b32-bd5e-41ac-b8ae-45ec8e8cb8f0)
+
+
 ## Overview
 
 The Election Portal enables efficient and secure voting procedures for various entities, such as college students and candidates standing for positions of power. It employs quadratic voting, a novel approach to voting where voters allocate their votes in a quadratic manner, allowing for more nuanced expression of preferences.
